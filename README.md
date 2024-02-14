@@ -1,1 +1,1 @@
-lis351-DanielMangold.github.io
+https://lis351-danielmangold.github.io/
