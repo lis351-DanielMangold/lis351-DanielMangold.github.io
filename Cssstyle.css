@@ -1,0 +1,45 @@
+body {
+	margin: auto;
+	padding: 3rem;
+	font-family: sans-serif;
+	background-color: beige;
+}
+
+.redbox {
+	margin: auto;
+	background-color: darkred;
+	width: 35rem;
+	height: 18rem;
+	padding: 3rem;
+	font-size: 30px;
+}
+
+ol {color:white;}
+dt {
+	color: white;
+}
+
+dd {
+	color: white;
+}
+
+.middle-text {
+	position: relative;
+    text-align: center;
+}
+
+.center-image {
+	display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    background-position: center;
+}
+
+img {
+    line-height: 300px;
+}
+
+.full-width {
+	width: 100%;
+}
+
