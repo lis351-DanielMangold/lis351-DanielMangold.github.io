@@ -1,1 +1,1 @@
-https://lis351-danielmangold.github.io/
+https://lis351-danielmangold.github.io/index.html
